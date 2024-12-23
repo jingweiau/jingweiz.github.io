@@ -11,6 +11,7 @@ redirect_from:
 #### Technical Skills: Python, Fortran, MATLAB
 
 ## Education
+
 • Ph.D.        Physical Oceanography| University of Tasmania   (_Dec 2024_)
 
 • B.Sc. (Hons) Physical Oceanography| University of Tasmania   (_Dec 2019_)
