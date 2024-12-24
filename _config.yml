@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "WechatIMG237.png"
+  avatar           : "images/WechatIMG237.png"
   name             : "Jingwei Zhang"
   pronouns         : "he/his"  
   bio              : "Climate Scientist | Ocean and Sea Ice Modeling | Climate Variability"
