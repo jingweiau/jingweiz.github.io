@@ -20,6 +20,7 @@ redirect_from:
 
 ## About me
 I am an climate scientist with a PhD in Physical Oceanography from the University of Tasmania (UTAS) and the Commonwealth Scientific and Industrial Research Organization (CSIRO) in Hobart, Tasmania. My work uses numerical models (ocean and sea ice), observations, and theory to understand the interactions between Antarctica, sea ice, and ocean and their roles in our changing climate. These experiences fuel my strong ambition to advance the understanding of cryosphere-ocean interactions and their implications for future sea level and global climate systems.
+
 • Physical Oceanography • Southern Ocean dynamics • Sea ice-Ocean modelling • Antarctic meltwater • Climate variability • Climate model coupling • Polar and climate science • Tidal modelling
 
 I have a passion for running ocean and climate models, and I have hands-on experience with:
