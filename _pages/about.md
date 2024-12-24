@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Climate Scientist
+### Climate Scientist with Expertise in Ocean Modeling
 
 #### Technical Skills: Python, Fortran, MATLAB
 
