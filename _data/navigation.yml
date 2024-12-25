@@ -7,15 +7,7 @@
 main:
   - title: "CV"
     url: /cv/
-  - title: "Code"
-    url: /code/
+  - title: "Research"
+    url: /Research/
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/
-
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Visualizations"
-    url: /visualizations/
