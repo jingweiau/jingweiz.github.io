@@ -6,7 +6,7 @@
 
 main:
   - title: "Curriculum vitae"
-    url: /Curriculum vitae/
+    url: /cv/
   - title: "Research"
     url: /Research/
   - title: "Publications"
