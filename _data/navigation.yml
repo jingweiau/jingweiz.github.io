@@ -5,9 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "Curriculum vitae"
+    url: /Curriculum vitae/
   - title: "Research"
     url: /Research/
   - title: "Publications"
     url: /publications/
+  - title: "Recources"
+    url: /Recources/
