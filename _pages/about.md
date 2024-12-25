@@ -6,17 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Climate Scientist with Expertise in Ocean Modeling
-
-#### Technical Skills: Python, Fortran, MATLAB
-
-## Education
-
-• Ph.D.        Physical Oceanography|     University of Tasmania   (_Dec 2024_)
-
-• B.Sc. (Hons) Physical Oceanography| University of Tasmania   (_Dec 2019_)
-
-• B.Sc.        Physical Oceanography|     Ocean University of China(_Dec 2019_)
+## Climate Scientist with Expertise in Ocean Modeling
 
 ## About me
 I am an climate scientist with a PhD in Physical Oceanography from the University of Tasmania (UTAS) and the Commonwealth Scientific and Industrial Research Organization (CSIRO) in Hobart, Tasmania. My work uses numerical models (ocean and sea ice), observations, and theory to understand the interactions between Antarctica, sea ice, and ocean and their roles in our changing climate. These experiences fuel my strong ambition to advance the understanding of cryosphere-ocean interactions and their implications for future sea level and global climate systems.
@@ -33,3 +23,13 @@ I am also an Antarctic Expedition Guide and Onboard Scientist/Lecturer with Silv
 
 If you're interested in my work and/or Antarctica, let's Talk! 
 I am enthusiastic about discussing innovative projects, exchanging ideas, and exploring collaborative opportunities.
+
+## Education
+
+• Ph.D.        Physical Oceanography|     University of Tasmania   (_Dec 2024_)
+
+• B.Sc. (Hons) Physical Oceanography| University of Tasmania   (_Dec 2019_)
+
+• B.Sc.        Physical Oceanography|     Ocean University of China(_Dec 2019_)
+
+### Technical Skills: Python, Fortran, MATLAB
