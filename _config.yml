@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jingwei Zhang"
 title_separator          : "-"
-name                     : &name "Jingwei Zhang"
+name                     : &name "Home Page"
 description              : &description "Climate Scientist & Ocean and Sea Ice Modeler"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
