@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Donwoad CV here](https://jingwei.z.github.io/files/Jingwei_Zhang_CV.pdf)
+[Donwoad CV here](https://github.com/jingweiau/jingweiz.github.io/blob/master/files/Jingwei_Zhang_CV.pdf)
 
 Education
 ======
