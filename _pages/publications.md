@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ___
-* **Zhang, J.**., Zhang, X., King, M. A., & Lyu, K. (2024). A model‐based investigation of the recent rebound of shelf water salinity in the Ross Sea. Geophysical Research Letters, 51, e2023GL106697. http://dx.doi.org/10.1029/2023GL106697.
+* **Zhang, J.**., Zhang, X., King, M. A., & Lyu, K. (2024). A model‐based investigation of the recent rebound of shelf water salinity in the Ross Sea. Geophysical Research Letters, 51, e2023GL106697. [Link](http://dx.doi.org/10.1029/2023GL106697)
 
 * **Zhang, J.**., Zhang X., King M., and Lyu K. The Response of the Southern Ocean to Climatological Iceberg Freshwater Forcing, Journal of Geophysical Research: Oceans (under review)
 
